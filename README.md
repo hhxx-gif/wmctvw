@@ -12,12 +12,7 @@ It is designed to reconstruct high-quality images from undersampled k-space data
 
 2. Runtime Environment and Dependencies
 2.1 Software Environment
-MATLAB R2021a or higher
-
-Image Processing Toolbox
-
-Wavelet Toolbox
-
+MATLAB R2021b or higher
 2.2 Hardware Environment
 CPU: Intel i5 or above
 
