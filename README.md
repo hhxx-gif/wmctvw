@@ -50,6 +50,9 @@ All auxiliary variables are initialized to zero
 Key Parameters
 
 lamda_tv: controls the strength of total variation regularization
+
 lamda_wavelet: controls the wavelet regularization
+
 rho: ADMM penalty parameter
+
 numItr: number of iterations
