@@ -14,11 +14,10 @@ It is designed to reconstruct high-quality images from undersampled k-space data
 2. Runtime Environment and Dependencies
 2.1 Software Environment
 MATLAB R2021b or higher
+
 2.2 Hardware Environment
 CPU: Intel i5 or above
-
 Memory: 8GB or more
-
 GPU support not required
 
 3 Data and Sampling Mask
