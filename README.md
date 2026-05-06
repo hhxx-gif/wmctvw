@@ -1,4 +1,7 @@
+
 Nonconvex Multi-Regularization Framework for Detail-Preserving Undersampled MRI Reconstruction
+
+This repository corresponds to the original manuscript submitted for publication in The Visual Computer.
 
 1 Overview
 
