@@ -11,7 +11,7 @@ Nesterov momentum acceleration
 
 It is designed to reconstruct high-quality images from undersampled k-space data while preserving fine details and suppressing artifacts
 
-2. Runtime Environment and Dependencies
+2 Runtime Environment and Dependencies
 2.1 Software Environment
 MATLAB R2021b or higher
 
@@ -34,6 +34,7 @@ Sampling Mask
 A Cartesian undersampling pattern is used to simulate k-space acquisition:
 
 File: data/Umask_Cartesian_100.mat
+
 Description: Cartesian mask with 100 sampled phase-encoding lines
 The current implementation uses Cartesian sampling
 Other sampling patterns (e.g., radial or random) can be incorporated by modifying the mask
