@@ -39,3 +39,15 @@ Description: Cartesian mask with 100 sampled phase-encoding lines
 The current implementation uses Cartesian sampling
 Other sampling patterns (e.g., radial or random) can be incorporated by modifying the mask
 Sampling rate can be adjusted by changing the number of acquired lines
+
+⚙️ Implementation Details
+Initialization
+The reconstruction is initialized using zero-filled inverse Fourier transform
+All auxiliary variables are initialized to zero
+
+Key Parameters
+
+lamda_tv: controls the strength of total variation regularization
+lamda_wavelet: controls the wavelet regularization
+rho: ADMM penalty parameter
+numItr: number of iterations
