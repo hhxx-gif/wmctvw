@@ -59,3 +59,6 @@ lamda_wavelet: controls the wavelet regularization
 rho: ADMM penalty parameter
 
 numItr: number of iterations
+
+
+zenodo data DOI:10.5281/zenodo.20115452
